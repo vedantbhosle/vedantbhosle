@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Vedant Bhosale
+# 💫 Hi 👋, I'm Vedant Bhosale 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vedant_bhosale_21_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhosale-7533b4284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantbhosale2101@gmail.com) 
 
